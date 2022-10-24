@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQEv5WN5mgvCow/profile-displaybackgroundimage-shrink_350_1400/0/1665852974716?e=1672272000&v=beta&t=_ibmbxG3TOXjSkOMcbYGAsxHNslmt61goHezkyfXXrI)
-<h1 align="center">Hi 👋, I'm Sammed NJ</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif" /> </p>
+<h1 >Hi 👋, I'm Sammed NJ</h1>
+<h3 >A passionate frontend developer from India</h3>
+<img align="right" alt="coding is fun" width="400" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammed-nj&label=Profile%20views&color=0e75b6&style=flat" alt="sammed-nj" /> </p>
 
