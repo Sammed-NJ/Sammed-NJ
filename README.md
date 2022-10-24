@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQEv5WN5mgvCow/profile-displaybackgroundimage-shrink_350_1400/0/1665852974716?e=1672272000&v=beta&t=_ibmbxG3TOXjSkOMcbYGAsxHNslmt61goHezkyfXXrI)
 <h1 >Hi 👋, I'm Sammed NJ</h1>
 <h3 >A passionate frontend developer from India</h3>
-<img align="right" alt="coding is fun" width="400" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
+<img align="right" alt="coding is fun" width="" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammed-nj&label=Profile%20views&color=0e75b6&style=flat" alt="sammed-nj" /> </p>
 
@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammed-nj&show_icons=true&locale=en&layout=compact" alt="sammed-nj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammed-nj&show_icons=true&locale=en" alt="sammed-nj" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sammed-nj&show_icons=true&locale=en" alt="sammed-nj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammed-nj&theme=dark" alt="sammed-nj" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammed-nj&theme=dark" alt="sammed-nj" /></p>
