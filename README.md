@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQEv5WN5mgvCow/profile-displaybackgroundimage-shrink_350_1400/0/1665852974716?e=1672272000&v=beta&t=_ibmbxG3TOXjSkOMcbYGAsxHNslmt61goHezkyfXXrI)
+![MasterHead]([https://drive.google.com/file/d/1uI14GyXPPYGO_UQ6TjfLA9xmebsPQktP/view?usp=share_link])
 <h1 >Hi 👋, I'm Sammed NJ</h1>
 <h3 >A passionate frontend developer from India</h3>
 <img align="right" alt="coding is fun" width="" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
