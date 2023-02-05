@@ -1,4 +1,4 @@
-![MasterHead](<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="MasterHead" width="500" height="500">
+![MasterHead]()
 )
 <h1 >Hi 👋, I'm Sammed NJ</h1>
 <h3 >A passionate frontend developer from India</h3>
@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sammed_nj" target="blank"><img src="https://img.shields.io/twitter/follow/sammed_nj?logo=twitter&style=for-the-badge" alt="sammed_nj" /></a> </p>
 
-- 🌱 I’m currently learning **Asynchronous JavaScript, The Complete JavaScript Course**
+- 💼 Currently working as a trainee software engineer
+- 
+- 🌱 I’m currently learning **Laravel, PHP, MySQL, WordPress**
 
 - 🤝 I’m looking for help with [Tic Tac Toe GAME](https://github.com/Sammed-NJ/tic_tac_too)
 
