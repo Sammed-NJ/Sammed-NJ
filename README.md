@@ -1,4 +1,4 @@
-![MasterHead](https://youtu.be/_ITiwPMUzho)
+![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <h1 >Hi 👋, I'm Sammed NJ</h1>
 <h3 >A passionate frontend developer from India</h3>
 <img align="right" alt="coding is fun" width="" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
