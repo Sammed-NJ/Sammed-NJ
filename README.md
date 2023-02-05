@@ -1,4 +1,5 @@
-![MasterHead](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+![MasterHead](<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="MasterHead" width="500" height="500">
+)
 <h1 >Hi 👋, I'm Sammed NJ</h1>
 <h3 >A passionate frontend developer from India</h3>
 <img align="right" alt="coding is fun" width="" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
