@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on [Fiver Clone](site is down)
+- 👯 I’m looking to collaborate on [Fiver Clone](https://github.com/Sammed-NJ/reactjs)
 
-- 🤝 I’m looking for help with [Fiver Clone](site is down)
+- 🤝 I’m looking for help with [Fiver Clone](https://github.com/Sammed-NJ/reactjs)
 
 - 👨‍💻 All of my projects are available at [https://samnj.netlify.app/](https://samnj.netlify.app/)
 
