@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with [Fiver Clone](https://github.com/Sammed-NJ/reactjs)
 
-- 👨‍💻 All of my projects are available at [https://samnj.netlify.app/](https://samnj.netlify.app/)
+- 👨‍💻 All of my projects are available at [samnj](https://samnj.netlify.app/)
 
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **sammednj13@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sammed-nj/](https://www.linkedin.com/in/sammed-nj/)
+- 📄 Know about my experiences [Sammed NJ LinkedIn](https://www.linkedin.com/in/sammed-nj/)
 
 - ⚡ Fun fact **Anime | Coding | Bike | Football⚽**
 
