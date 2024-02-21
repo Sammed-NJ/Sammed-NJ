@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sammed NJ</h1>
-<img src="https://media.giphy.com/media/3o6ZsYvUCvCngfQT4A/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTh1NHhvZXZjc3RiZHF0eHB2Y2E3a251ejlsMDZndzM3dzBwaWZjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="gify" width="300" height="300" autoplay loop>
+<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 <h3 align="left">I'm a software engineer based in Kochi, India, with a year of experience, specializing in Laravel, MySQL, HTML, CSS, SASS, Bootstrap, Tailwind CSS, React JS, and jQuery. Let's create amazing projects together!</h3>
 
