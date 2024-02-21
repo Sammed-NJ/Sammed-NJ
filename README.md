@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sammed_nj" target="blank"><img src="https://img.shields.io/twitter/follow/sammed_nj?logo=twitter&style=for-the-badge" alt="sammed_nj" /></a> </p>
 
+<div style="display: flex;">
 <div>
-  - 🔭 I’m currently working on [LMS Project](https://lms.trainery.one/)
+- 🔭 I’m currently working on [LMS Project](https://lms.trainery.one/)
 
 - 🌱 I’m currently learning **React.js**
 
@@ -15,7 +16,7 @@
 - 🤝 I’m looking for help with [Fiver Clone](site is down)
 </div>
 <div>
-  - 👨‍💻 All of my projects are available at [https://samnj.netlify.app/](https://samnj.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://samnj.netlify.app/](https://samnj.netlify.app/)
 
 - 💬 Ask me about **Laravel**
 
@@ -24,6 +25,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/sammed-nj/](https://www.linkedin.com/in/sammed-nj/)
 
 - ⚡ Fun fact **Anime | Coding | Bike | Football⚽**
+</div>
 </div>
 
 ### Blogs posts
