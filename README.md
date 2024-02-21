@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sammed NJ</h1>
-<img src="https://media.giphy.com/media/3o6ZsYvUCvCngfQT4A/giphy.gif" alt="Hi" width="300" height="300" autoplay loop>=
+<img src="giphy.gif" alt="gify" width="300" height="300" autoplay loop>
 
 <h3 align="left">I'm a software engineer based in Kochi, India, with a year of experience, specializing in Laravel, MySQL, HTML, CSS, SASS, Bootstrap, Tailwind CSS, React JS, and jQuery. Let's create amazing projects together!</h3>
 
