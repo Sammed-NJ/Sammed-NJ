@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sammed NJ</h1>
-<img src="giphy.gif" alt="gify" width="300" height="300" autoplay loop>
-
-<h3 align="left">I'm a software engineer based in Kochi, India, with a year of experience, specializing in Laravel, MySQL, HTML, CSS, SASS, Bootstrap, Tailwind CSS, React JS, and jQuery. Let's create amazing projects together!</h3>
+<div style="display: flex; align-items: center;">
+    <img src="giphy.gif" alt="gify" width="300" height="300" autoplay loop>
+    <h3 style="margin-left: 20px;">I'm a software engineer based in Kochi, India, with a year of experience, specializing in Laravel, MySQL, HTML, CSS, SASS, Bootstrap, Tailwind CSS, React JS, and jQuery. Let's create amazing projects together!</h3>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammed-nj&label=Profile%20views&color=0e75b6&style=flat" alt="sammed-nj" /> </p>
 
