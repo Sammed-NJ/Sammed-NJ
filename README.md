@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sammed NJ</h1>
-![Hi](https://media.giphy.com/media/3o6ZsYvUCvCngfQT4A/giphy.gif)
+![]([https://media.giphy.com/media/3o6ZsYvUCvCngfQT4A/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTh1NHhvZXZjc3RiZHF0eHB2Y2E3a251ejlsMDZndzM3dzBwaWZjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif))
 <h3 align="left">I'm a software engineer based in Kochi, India, with a year of experience, specializing in Laravel, MySQL, HTML, CSS, SASS, Bootstrap, Tailwind CSS, React JS, and jQuery. Let's create amazing projects together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammed-nj&label=Profile%20views&color=0e75b6&style=flat" alt="sammed-nj" /> </p>
