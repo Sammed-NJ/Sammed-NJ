@@ -5,28 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/sammed_nj" target="blank"><img src="https://img.shields.io/twitter/follow/sammed_nj?logo=twitter&style=for-the-badge" alt="sammed_nj" /></a> </p>
 
-<div style="display: flex;">
-<div>
-- 🔭 I’m currently working on [LMS Project](https://lms.trainery.one/)
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on [Fiver Clone](site is down)
-
-- 🤝 I’m looking for help with [Fiver Clone](site is down)
-</div>
-<div>
-- 👨‍💻 All of my projects are available at [https://samnj.netlify.app/](https://samnj.netlify.app/)
-
-- 💬 Ask me about **Laravel**
-
-- 📫 How to reach me **sammednj13@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sammed-nj/](https://www.linkedin.com/in/sammed-nj/)
-
-- ⚡ Fun fact **Anime | Coding | Bike | Football⚽**
-</div>
-</div>
+<ul>
+<li>- 🔭 I’m currently working on [LMS Project](https://lms.trainery.one/)</li>
+<li>- 🌱 I’m currently learning **React.js**</li>
+<li>- 👯 I’m looking to collaborate on [Fiver Clone](site is down)</li>
+<li>- 🤝 I’m looking for help with [Fiver Clone](site is down)</li>
+<li>- 👨‍💻 All of my projects are available at [https://samnj.netlify.app/](https://samnj.netlify.app/)</li>
+<li>- 💬 Ask me about **Laravel**</li>
+<li>- 📫 How to reach me **sammednj13@gmail.com**</li>
+<li>- 📄 Know about my experiences [https://www.linkedin.com/in/sammed-nj/](https://www.linkedin.com/in/sammed-nj/)</li>
+<li>- ⚡ Fun fact **Anime | Coding | Bike | Football⚽**</li>
+</ul>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
